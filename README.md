@@ -42,10 +42,10 @@ I combine **software engineering**, **ethical hacking**, and **creative design**
 ---
 
 ## 📫 Connect With Me
-- 💼 GitHub: [github.com/Xenon](#)  
-- 🎨 Behance/Dribbble: [behance.net/Xenon](#)  
-- 🧠 LinkedIn: [linkedin.com/in/xenon](#)  
-- ✉️ Email: xenon.tech@gmail.com  
+- 💼 GitHub: Binwaqos 
+- 🎨 Twitter: @Noblexenonx
+- 🧠 LinkedIn: Xenon x
+- ✉️ Email: binwaqos@gmail.com
 
 ---
 
