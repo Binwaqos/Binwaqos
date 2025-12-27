@@ -1,45 +1,30 @@
-# 👨‍💻 Xenon | Software Engineer • Ethical Hacker • UI/UX Designer • Graphic Designer  
-
-Hi, I’m **Xenon** — a passionate tech innovator who builds, secures, and designs digital experiences that stand out.  
-I combine **software engineering**, **ethical hacking**, and **creative design** to deliver clean, fast, and secure solutions.
-
----
-
-## 🚀 About Me
-- 🎯 **Goal:** To master technology deeply — from code to design to cybersecurity.  
-- 💡 **Fields:** Software Engineering | Ethical Hacking | Graphic Design | UI/UX  
-- 🧩 **Style:** Fast learner • Problem solver • Technical & creative guru.  
-- 🛠️ **Mindset:** “Build smart, design beautifully, secure everything.”  
-
----
-
-## 🧰 Tech Stack
-**Languages:** HTML, CSS, JavaScript, Python  
-**Frameworks:** React, Tailwind CSS, Node.js  
-**Design Tools:** Figma, Canva, Adobe Illustrator, Photoshop  
-**Cyber Tools:** Kali Linux, Nmap, Wireshark, Burp Suite, TryHackMe Labs  
-**Other Tools:** Git, GitHub, VS Code  
-
----
-
-## 🧩 Featured Projects
-| Project | Description | Tools |
-|----------|--------------|-------|
-| 💻 **Xenon Portfolio Site** | My personal web portfolio showcasing my skills and designs. | HTML, CSS, JS, Figma |
-| 🔐 **Secure Login System** | Web app with secure authentication and encryption. | Node.js, MongoDB |
-| 🎨 **Brand Identity Kit** | Full branding for a fictional startup. | Illustrator, Photoshop |
-| 🕵️‍♂️ **TryHackMe Lab Reports** | My ethical hacking practice logs and writeups. | Kali Linux, Nmap |
-| 📱 **UI/UX Case Study** | App design project with research and prototypes. | Figma, UX principles |
-
----
-
-## 🏆 Certifications (In Progress)
-- Google UX Design Certificate  
-- freeCodeCamp Web Development Certification  
-- TryHackMe “Complete Beginner” Path  
-- CompTIA Security+ (Goal)  
-
----
+Hi, I’m AbdulGaniy Saad (Xenon) 👋
+Software Engineering Student | Front-End Web Development
+I’m a disciplined Software Engineering student at FUTMINNA, focused on building clean, responsive, and functional web applications using HTML, CSS, JavaScript, and Python.
+I enjoy turning ideas into practical solutions, strengthening my problem-solving skills, and continuously improving through hands-on projects.
+🎯 Current Focus
+Front-End Web Development
+JavaScript (DOM manipulation, events, logic)
+Building real-world student-focused web projects
+Version control with Git & GitHub
+🛠️ Technical Skills
+Languages: HTML, CSS, JavaScript, Python
+Tools: Git, GitHub, VS Code, Chrome DevTools, Termux
+Concepts: Responsive Design, DOM Manipulation, Debugging, Logical Problem Solving
+🚀 Featured Projects
+Personal Portfolio Website – Responsive personal website showcasing projects and skills
+School Website Prototype – Multi-page website with structured navigation and accessibility focus
+JavaScript Mini Projects – Calculator, To-Do App, Form Validation
+Student Productivity Tracker (in progress) – Task and habit tracking web app using vanilla JavaScript
+👉 Check my repositories below to see my work.
+📚 Education
+B.Tech Software Engineering
+Federal University of Technology, Minna (FUTMINNA)
+Expected Graduation: 2028
+🤝 Open To
+Internship / SIWES opportunities
+Collaboration on beginner-to-intermediate frontend projects
+Learning and growth-focused environment
 
 ## 📫 Connect With Me
 - 💼 GitHub: Binwaqos 
