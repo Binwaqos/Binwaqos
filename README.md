@@ -44,7 +44,7 @@ I combine **software engineering**, **ethical hacking**, and **creative design**
 ## 📫 Connect With Me
 - 💼 GitHub: Binwaqos 
 - 🎨 Twitter: @Noblexenonx
-- 🧠 LinkedIn: Xenon x
+- 🧠 LinkedIn: https://www.linkedin.com/in/abdulganiy-saad-38ab01348
 - ✉️ Email: binwaqos@gmail.com
 
 ---
